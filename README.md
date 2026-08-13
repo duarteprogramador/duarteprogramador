@@ -31,7 +31,7 @@ Estudante de Análise e Desenvolvimento de Sistema.
 
 ### Frontend
 
-![HTML5](https://shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML)
+![HTML5](https://shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://shields.io/badge/CSS-20232A?style=for-the-badge&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 
