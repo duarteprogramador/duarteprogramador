@@ -1,6 +1,6 @@
 # Hi, world! 👋 I'm Kaique Duarte
 
-🚀 **Desenvolvedor Back-end | Java & SQL**  
+🚀 **Desenvolvedor Back-end | HTML, CSS e JavaScript**  
 🇧🇷 Brazil
 
 Estudante de Análise e Desenvolvimento de Sistema.
