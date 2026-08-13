@@ -16,12 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistema.
   <a href="https://www.linkedin.com/in/kaiqueduarte011/">
     <img src="https://img.shields.io/badge/Linkedin-KAIQUEDUARTE-E4405F?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+
 </p>
 
 ---
