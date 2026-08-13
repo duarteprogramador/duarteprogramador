@@ -44,5 +44,4 @@ Estudante de Análise e Desenvolvimento de Sistema.
 
 ---
 
-⭐ If you like my work, consider starring a repository  
 🤝 Always open to collaborations, partnerships, and cool ideas
