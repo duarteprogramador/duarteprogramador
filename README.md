@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kaique Duarte
 
-🚀 **Desenvolvedor Back-end em formação | Java & SQL**  
+🚀 **Desenvolvedor Back-end | Java & SQL**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
