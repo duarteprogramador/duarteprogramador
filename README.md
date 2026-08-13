@@ -1,6 +1,6 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Kaique Duarte
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
+🚀 **Desenvolvedor Back-end em formação | Java & SQL**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
