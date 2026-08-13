@@ -14,7 +14,7 @@ Estudante de Análise e Desenvolvimento de Sistema.
     <img src="https://img.shields.io/badge/GitHub-DUARTEPROGRAMADOR-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/kaiqueduarte011/">
-    <img src="https://img.shields.io/badge/Linkedin-KAIQUEDUARTE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linkedin-KAIQUEDUARTE-E4405F?style=for-the-badge&logo=linkedin&logoColor=blue" />
   </a>
   <a href="https://www.tiktok.com/@oreidosites">
     <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
